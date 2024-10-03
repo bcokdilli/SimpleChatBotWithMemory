@@ -223,8 +223,5 @@ Temporary Items
 instance/*
 !instance/.gitignore
 .webassets-cache
-.env
 
 .venv/
-
-".env" 
