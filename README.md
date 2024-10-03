@@ -6,8 +6,8 @@ This project is a simple chatbot designed to explain high school chemistry conce
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone [<repository-url>](https://github.com/bcokdilli/SimpleChatBotWithMemory.git)
+    cd SimpleChatBotWithMemory
     ```
 
 2. Install the required packages:
